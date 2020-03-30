@@ -55,7 +55,7 @@ def main(_):
         )
 
         continueTrain = False
-        continueTrain = True
+        #continueTrain = True
         with tf.Session() as sess:
             if not continueTrain:
                 if os.path.exists(FLAGS.checkpoint_dir):
