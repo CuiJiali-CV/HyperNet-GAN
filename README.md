@@ -66,7 +66,7 @@
 ##### Experiment one : Input two different weights and one noise
  ![Image text](https://github.com/CuiJiali-CV/HyperNet-GAN/raw/master/diff_weights_same_z1.png)
  ![Image text](https://github.com/CuiJiali-CV/HyperNet-GAN/raw/master/diff_weights_same_z2.png)
-##### Experiment one : Input two different noise and one weight
+##### Experiment two : Input two different noise and one weight
  ![Image text](https://github.com/CuiJiali-CV/HyperNet-GAN/blob/master/diff_z_same_weight1.png)
  ![Image text](https://github.com/CuiJiali-CV/HyperNet-GAN/blob/master/diff_z_same_weight2.png)
 <br /><br />
